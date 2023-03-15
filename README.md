@@ -1,6 +1,6 @@
 <h2 align="center">
- MyFeeds<br/>
-  <a href="https://felipe-buch-portifolio.netlify.app/" target="_blank">Link do MyFeeds</a>
+Snake Game<br/>
+  <a href="https://snakegamejavascript.netlify.app/" target="_blank">Link do Snake</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/Snake.png" />
@@ -9,18 +9,9 @@
 
 Este projeto foi construído utilizando as seguintes tecnologias.
 
-React.js
-Node.js
-Express.js
-CSS3
-VsCode
-Vercel
-Recursos
-📖 Layout de várias páginas
-
-🎨 Estilizado com React-Bootstrap e CSS com cores fáceis de personalizar
-
-📱 Totalmente responsivo
+JavaScript
+HTML
+CSS
 
 Começando
 Clone este repositório. Você precisa ter node.js e git instalados globalmente em sua máquina.
